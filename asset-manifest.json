@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//ashkings.github.io/React-in-github-demo/static/css/main.128f2db0.chunk.css",
+    "main.js": "//ashkings.github.io/React-in-github-demo/static/js/main.e57817f5.chunk.js",
+    "main.js.map": "//ashkings.github.io/React-in-github-demo/static/js/main.e57817f5.chunk.js.map",
+    "runtime-main.js": "//ashkings.github.io/React-in-github-demo/static/js/runtime-main.267c0620.js",
+    "runtime-main.js.map": "//ashkings.github.io/React-in-github-demo/static/js/runtime-main.267c0620.js.map",
+    "static/js/2.99c67fad.chunk.js": "//ashkings.github.io/React-in-github-demo/static/js/2.99c67fad.chunk.js",
+    "static/js/2.99c67fad.chunk.js.map": "//ashkings.github.io/React-in-github-demo/static/js/2.99c67fad.chunk.js.map",
+    "index.html": "//ashkings.github.io/React-in-github-demo/index.html",
+    "precache-manifest.bfc75aab76e9f4118911935730a62169.js": "//ashkings.github.io/React-in-github-demo/precache-manifest.bfc75aab76e9f4118911935730a62169.js",
+    "service-worker.js": "//ashkings.github.io/React-in-github-demo/service-worker.js",
+    "static/css/main.128f2db0.chunk.css.map": "//ashkings.github.io/React-in-github-demo/static/css/main.128f2db0.chunk.css.map",
+    "static/js/2.99c67fad.chunk.js.LICENSE.txt": "//ashkings.github.io/React-in-github-demo/static/js/2.99c67fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.267c0620.js",
+    "static/js/2.99c67fad.chunk.js",
+    "static/css/main.128f2db0.chunk.css",
+    "static/js/main.e57817f5.chunk.js"
+  ]
+}
